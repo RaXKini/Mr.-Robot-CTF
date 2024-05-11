@@ -11,9 +11,9 @@ The level is considered **Beginner-Intermediate**. <br />
 Hello There Folks! I'm Rahul Kini, an aspiring **Cyber Security Engineer** and an **Ethical Hacker**. I have attempted the Mr. Robot CTF developed by Leon Johnson for fun and to gain some knowledge and experience in **Penetration Testing** and **Privilege Escalation**. I have tried my best to design this **HACK REPORT + WALKTHROUGH** thematic, as I'm a huge fan of the TV Show Mr. Robot directed by Sam Esmail. The folks who've watched or watching it yet are going to enjoy the report as my creativity and presentation/reporting skills are put into action here. The folks might as well relate to the TV Show via this report. <br />
 
 **METADATA related to the HACK:** <br />
-Machine Download Location: https://download.vulnhub.com/mrrobot/mrRobot.ova <br />
-Machines Used: Kali Linux & Mr. Robot <br />
-Tools Used: NetDiscover, Nmap, Dirbuster, BurpSuite, Hydra, crackstation.net [Firefox Browser],GTFOBins [Firefox Browser], WordPress [Firefox Browser + BurpSuite Browser (Chromium)] and NetCat <br />
+**Machine Download Location:** https://download.vulnhub.com/mrrobot/mrRobot.ova <br />
+**Machines Used:** Kali Linux & Mr. Robot <br />
+**Tools Used:** NetDiscover, Nmap, Dirbuster, BurpSuite, Hydra, crackstation.net [Firefox Browser],GTFOBins [Firefox Browser], WordPress [Firefox Browser + BurpSuite Browser (Chromium)] and NetCat <br />
 
 **CONFIDENTIALITY STATEMENT:** <br />
 This document is the exclusive property of Mr. Rahul Kini. This document contains confidential information in the whole. Duplication, Redistribution, or Use, in whole or in part, in any form, requires consent of Mr. Rahul Kini. To seek the consent, you can contact me from the section given below the disclaimer section. <br />
